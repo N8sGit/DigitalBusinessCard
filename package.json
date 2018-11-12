@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-boilerplate",
+  "name": "digital_businesscard",
   "version": "1.0.0",
-  "description": "Simple and lightweight Boilerplate for ReactJS projects",
+  "description": "A way to elegantly present a resume or other business credentials online. Just a simple pop up modal containing links to profressional work and a stylized presentation. Embed into email or social media, or send it as a link anywhere online.",
   "scripts": {
     "lint": "eslint src",
     "start": "node server.js"
@@ -16,12 +16,8 @@
     "edit",
     "webpack"
   ],
-  "author": "Noah-Jerome Lotzer <noah.lotzer@gmail.com>",
+  "author": "Nathan Anecone",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
-  },
-  "homepage": "https://github.com/noahlotzer/react-simple-boilerplate",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
