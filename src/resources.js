@@ -1,0 +1,2 @@
+export var aboutMe = 'Welcome to my CV! Here you\'ll find everything that animates me as a dreamer, builder and thinker. From my writing which explores the latest trends in tech and the changings it\'s bringing to my professional resume and other credentials as a software engineer and researcher. I hope you enjoy getting to know me a little!'
+ 
